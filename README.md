@@ -51,9 +51,9 @@ I believe in lifelong learning. I actively document my daily learnings and lab e
 
 I am always open to networking opportunities, collaborations, and mentorship.
 
-LinkedIn: linkedin.com/in/mahmoud-adam-3b0363376
-Email: mahmoud47727@gmail.com
-GitHub: https://github.com/Mahmoud-Adam-9
+- LinkedIn: linkedin.com/in/mahmoud-adam-3b0363376
+- Email: mahmoud47727@gmail.com
+- GitHub: https://github.com/Mahmoud-Adam-9
 
 ---
 
