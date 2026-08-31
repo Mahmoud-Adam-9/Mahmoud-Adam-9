@@ -58,9 +58,9 @@ Level 4 | Expected Graduation: 2027/2028
 
 ## Contact Information
 
-LinkedIn: linkedin.com/in/mahmoud-adam-3b0363376
-Email: mahmoud47727@gmail.com 
-GitHub: https://github.com/Mahmoud-Adam-9
+-LinkedIn: https://linkedin.com/in/mahmoud-adam-3b0363376
+-Email: mahmoud47727@gmail.com 
+-GitHub: https://github.com/Mahmoud-Adam-9
 
 ---
 
