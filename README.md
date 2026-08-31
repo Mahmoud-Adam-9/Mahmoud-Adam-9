@@ -25,20 +25,20 @@ I am currently seeking internship opportunities where I can apply my skills and 
 
 ## Featured Projects
 
-| Project | Description | Status |
-|---------|-------------|--------|
-| Network Penetration Test Report | Comprehensive vulnerability assessment on a virtualized network environment using Metasploitable and Kali Linux. | In Progress |
-| Secure Network Design | Implementation of VLAN segmentation, ACL policies, and firewall rules on Cisco Packet Tracer. | Planned |
-| Cloud Security Monitoring Lab | Deployment of Suricata IDS on AWS EC2 with centralized logging and alerting. | Planned |
+| Project | Description | 
+|---------|-------------|
+| Network Penetration Test Report | Comprehensive vulnerability assessment on a virtualized network environment using Metasploitable and Kali Linux. | 
+| Secure Network Design | Implementation of VLAN segmentation, ACL policies, and firewall rules on Cisco Packet Tracer. | 
+| Cloud Security Monitoring Lab | Deployment of Suricata IDS on AWS EC2 with centralized logging and alerting. | 
 
 ---
 
 ## Certifications and Achievements
 
-- TryHackMe: [اكتب اسم المستخدم أو امسح السطر]
-- Hack The Box: [اكتب اسم المستخدم أو امسح السطر]
-- Cisco CCNA: Currently studying (Expected Completion: [اكتب الشهر والسنة])
-
+- NTI/HUAWEI-HCIA-Cloud Computing V5.5 Course
+- NTI/HUAWEI-HCIA-Security V4.0
+- TryHackMe: Adam9|[0x8][HACKER]
+  
 ---
 
 ## Continuous Learning
@@ -51,8 +51,8 @@ I believe in lifelong learning. I actively document my daily learnings and lab e
 
 I am always open to networking opportunities, collaborations, and mentorship.
 
-LinkedIn: [ضع رابط حسابك]
-Email: [ضع إيميلك]
+LinkedIn: linkedin.com/in/mahmoud-adam-3b0363376
+Email: mahmoud47727@gmail.com
 GitHub: https://github.com/Mahmoud-Adam-9
 
 ---
